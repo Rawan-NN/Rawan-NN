@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rawan-NN
-- 👀 I’m interested in application development , Ml and data science
+- 👋 Hi, I’m Rawan Alajmi 
+- 👀 I’m Software engineer interested in application development , Ml and data science
 - 🌱 I’m currently learning Ml & data science
 - 📫 Reach me via my email: Rawan.n.alajmi@gmail.com
 
